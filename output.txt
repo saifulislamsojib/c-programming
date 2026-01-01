@@ -1,1 +1,5 @@
-Factorial: 120
+Value: 4, Address: 0x16bcf6bb0
+Value: 6, Address: 0x16bcf6bb4
+Value: 10, Address: 0x16bcf6bb8
+Value: 43, Address: 0x16bcf6bbc
+Value: 3, Address: 0x16bcf6bc0

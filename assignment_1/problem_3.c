@@ -1,12 +1,11 @@
 #include <stdio.h>
 
-int main()
-{
-    float num, square;
-    scanf("%f", &num);
+int main() {
+  float num, square;
+  scanf("%f", &num);
 
-    square = num * num;
-    printf("Square is: %.2f", square);
+  square = num * num;
+  printf("Square is: %.2f", square);
 
-    return 0;
+  return 0;
 }

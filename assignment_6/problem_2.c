@@ -1,11 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main() {
-    for(int i = 4; i >= 1; i--) {
-        for(int j = 1; j <= i; j++) {
-            printf("%d", j);
-        }
-        printf("\n");
+  for (int i = 4; i >= 1; i--) {
+    for (int j = 1; j <= i; j++) {
+      printf("%d", j);
     }
-    return 0;
+    printf("\n");
+  }
+  return 0;
 }
